@@ -130,7 +130,7 @@ const NavBar = () => {
             <Link to='/'>Find Job</Link>
           </li>
           <li>
-            <Link to='/'>Companies</Link>
+            <Link to='/companies'>Companies</Link>
           </li>
           <li>
             <Link to='/upload-job'>Upload Job</Link>
