@@ -11,6 +11,8 @@ import Office from "./office.jpg";
 import JobImg from "./job.jpg";
 import Facebook from "./facebook.png";
 import CodeWave from "./codewave.png";
+import MezunImage from "./mezun.jpg"
+import KepImage from "./kep.jpg";
 
 export {
   CodeWave,
@@ -26,4 +28,6 @@ export {
   Youtube,
   Office,
   JobImg,
+  MezunImage,
+  KepImage,
 };
